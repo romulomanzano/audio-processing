@@ -5,6 +5,11 @@ audio-processing (fork from sms-tools)
 
 Sound analysis/synthesis tools for music applications written in python (with a bit of C) plus complementary lecture materials.
 
+I'm using Python 3.7
+
+sms-tools Notes
+========= 
+
 How to use
 ----------
 
