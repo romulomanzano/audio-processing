@@ -29,4 +29,4 @@ def genSine(A, f, phi, fs, t):
     length = t*fs
     big_t = 1/fs
     sinusoid = [A*np.cos((2*np.pi*f*big_t*n)+phi) for n in range(int(length))]
-    return sinusoid
+    return np.array(sinusoid)
